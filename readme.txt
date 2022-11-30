@@ -1,4 +1,4 @@
-Git is a version control system.
+Git is a version control system right.
 <<<<<<< Updated upstream
 Git is always free.
 Git has a mutable index called stage.
